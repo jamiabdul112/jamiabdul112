@@ -18,7 +18,7 @@
 
 ```
 
-### **Front-End Developer · UI/UX Designer · Product Builder**
+### **Front-End Developer · Product Builder**
 
 *I don't just build interfaces — I craft experiences that feel alive.*
 
